@@ -1,3 +1,5 @@
+--Script to control a BigReactor reactor's output for the turbine to reach and maintain an optimal RPM
+
 local reactor = peripheral.wrap("bottom")
 local turbine = peripheral.wrap("BigReactors-Turbine_1")
 
